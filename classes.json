@@ -1,0 +1,45 @@
+[
+    {
+        "name": "C",
+        "documentation": "Documentation for C",
+        "type": "typeof C",
+        "constructors": [
+            {
+                "parameters": [
+                    {
+                        "name": "a",
+                        "documentation": "my parameter documentation",
+                        "type": "Error"
+                    },
+                    {
+                        "name": "b",
+                        "documentation": "another parameter documentation",
+                        "type": "C"
+                    },
+                    {
+                        "name": "c",
+                        "documentation": "",
+                        "type": "int"
+                    }
+                ],
+                "returnType": "C",
+                "documentation": "constructor documentation"
+            }
+        ]
+    },
+    {
+        "parameters": [
+            {
+                "name": "a",
+                "type": "ulong"
+            },
+            {
+                "name": "b",
+                "type": "ushort"
+            }
+        ],
+        "name": "add",
+        "documentation": "",
+        "type": "uint"
+    }
+]

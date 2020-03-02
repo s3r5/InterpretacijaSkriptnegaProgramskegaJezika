@@ -1,0 +1,17 @@
+{
+	"extends": "eslint-config-bamboo",
+	"compilerOptions": {
+		"declaration": true,
+		"outDir": "./dist",
+		"declarationDir": "./dist",
+		"types": [
+			"node"
+		]
+	},
+	"exclude": [
+        "node_modules"
+	],
+	"include": [
+		"./src/**/*",
+	]
+}

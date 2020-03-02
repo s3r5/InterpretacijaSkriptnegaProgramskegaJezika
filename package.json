@@ -1,0 +1,30 @@
+{
+  "name": "@typedto/typetoseesharp",
+  "version": "0.0.1",
+  "description": "TTSS Is a Typescript to C# Transpiler",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuantumlyTangled/TypeToSeeSharp.git"
+  },
+  "author": "Nejc Drobnic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuantumlyTangled/TypeToSeeSharp/issues"
+  },
+  "homepage": "https://github.com/QuantumlyTangled/TypeToSeeSharp#readme",
+  "devDependencies": {
+    "@types/node": "^12.7.7",
+    "@typescript-eslint/eslint-plugin": "^2.3.1",
+    "@typescript-eslint/parser": "^2.3.1",
+    "eslint": "^6.4.0",
+    "eslint-config-bamboo": "^3.0.0"
+  },
+  "dependencies": {
+    "fs-nextra": "^0.4.5",
+    "typescript": "^3.6.3"
+  }
+}

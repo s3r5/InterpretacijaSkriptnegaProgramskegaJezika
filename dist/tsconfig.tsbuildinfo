@@ -1,0 +1,1814 @@
+{
+  "program": {
+    "fileInfos": {
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843",
+        "signature": "2edd3ddf436ef8e12df876dcae4ecd6a8748577944c477bf4b20d5596e0c9843"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.d.ts": {
+        "version": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b",
+        "signature": "0fc0f68d3f4d94aa65fab955592e4a9f2066e6f8ee2f66fcc45adf4037fc167b"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.d.ts": {
+        "version": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1",
+        "signature": "1c05c805f62c1c06a60b7812cd8de2dff7a5bda2218ce5edda5d9d298b1c48e1"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4",
+        "signature": "42102aaeb1bfec213be1e9777466a6d551eeba8567fed18c0cdbca8c35e3c6e4"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0",
+        "signature": "1b820b57379c726f94af50cd60053674af53ff9d079c1563cc70071e8b757dd0"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62",
+        "signature": "efe049114bad1035b0aa9a4a0359f50ab776e3897c411521e51d3013079cbd62"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8",
+        "signature": "e7780d04cd4120ee554c665829db2bbdd6b947cbaa3c150b7d9ea74df3beb2e8"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.array.d.ts": {
+        "version": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b",
+        "signature": "fc7c02b980e7dda0ed14d57ee71705c09efc51ec6286a10b971a25a3bb29262b"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.object.d.ts": {
+        "version": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859",
+        "signature": "989b95205f1189943fab0ce12a39c80570edf8f200aca60e0fdc500afc4d5859"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.string.d.ts": {
+        "version": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3",
+        "signature": "669427ac10ef9f52b6a7a502a66670eaabba675e0a660eb971041bd73c9894e3"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": {
+        "version": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62",
+        "signature": "7a842c21e0fe143eb3ad4d689a1470bab5ed9bc7fd7223fe8b56cbae27038d62"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": {
+        "version": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8",
+        "signature": "f6e0c89daaf72eac38dfb1d5ef0972183f7f26a68da15bfe5bcb7cfccf0c7db8"
+      },
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": {
+        "version": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8",
+        "signature": "63b66918290d794f73832a6d0325be5026236674fe8c0cb0b68d162000d7bbe8"
+      },
+      "d:/development/school/typetoseesharp/node_modules/typescript/lib/typescript.d.ts": {
+        "version": "82b802cc252c1099b480e62ccb84a956afae3ce8359420a6732e24685f039c02",
+        "signature": "82b802cc252c1099b480e62ccb84a956afae3ce8359420a6732e24685f039c02"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/globals.d.ts": {
+        "version": "e4461b72726848da76a31153b6b01af5e0be3b08dbfa2ec5741ad302eb20f2ed",
+        "signature": "e4461b72726848da76a31153b6b01af5e0be3b08dbfa2ec5741ad302eb20f2ed"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/assert.d.ts": {
+        "version": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f",
+        "signature": "58a52f282f1dad18179023804c1f3a7536bf875748a0a314abd43f60fd5b244f"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/async_hooks.d.ts": {
+        "version": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561",
+        "signature": "1305b079a057355f496bdde048716189178877a6b4fe0e9267a46af67f8c7561"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/buffer.d.ts": {
+        "version": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878",
+        "signature": "61215c1a376bbe8f51cab4cc4ddbf3746387015113c37a84d981d4738c21b878"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/child_process.d.ts": {
+        "version": "fbf717914b6e7d87d969b13c646b5d15dca61c9b89ea48e97a1513809445b003",
+        "signature": "fbf717914b6e7d87d969b13c646b5d15dca61c9b89ea48e97a1513809445b003"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/cluster.d.ts": {
+        "version": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a",
+        "signature": "ce629710e5e58724902b753212e97861fd73e2aa09f5d88cb6d55dc763cf8c8a"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/console.d.ts": {
+        "version": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d",
+        "signature": "525c8fc510d9632d2a0a9de2d41c3ac1cdd79ff44d3b45c6d81cacabb683528d"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/constants.d.ts": {
+        "version": "8ce9418c78d3c1fb703ddbe38c936d34a989ba278666979826590dfa0772a424",
+        "signature": "8ce9418c78d3c1fb703ddbe38c936d34a989ba278666979826590dfa0772a424"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/crypto.d.ts": {
+        "version": "ab2319db789867778ccd5f2b5e6cd559e716d1cd3726b0e03724af463eddf78b",
+        "signature": "ab2319db789867778ccd5f2b5e6cd559e716d1cd3726b0e03724af463eddf78b"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/dgram.d.ts": {
+        "version": "7954df44c35d39b851b996fdc1af0a252e4e23f862abfef388a058203bb94c30",
+        "signature": "7954df44c35d39b851b996fdc1af0a252e4e23f862abfef388a058203bb94c30"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts": {
+        "version": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c",
+        "signature": "ef226a42de7022eacdfa0f15aabf73b46c47af93044c8ebfab8aa8e3cf6c330c"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/domain.d.ts": {
+        "version": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa",
+        "signature": "d5b7c8819ce1bd31a45f7675309e145ec28e3aa1b60a8e0637fd0e8916255baa"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts": {
+        "version": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c",
+        "signature": "0be551fde848d5adde38731272ee980bda2bde0f8bf2a76ce99e01b86985546c"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts": {
+        "version": "6bd120d96313412155ae7d4766d586a38576a058b3e269be2152db7030fbc882",
+        "signature": "6bd120d96313412155ae7d4766d586a38576a058b3e269be2152db7030fbc882"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts": {
+        "version": "d5470fad800f025be0c4bd1b14c013ea5b4aeec90e53ab0e2703a8fe01f292b3",
+        "signature": "d5470fad800f025be0c4bd1b14c013ea5b4aeec90e53ab0e2703a8fe01f292b3"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/http2.d.ts": {
+        "version": "745494f14a9e133beee622ca51cdc59c8896ff77c9f3cd017a4ce735b30dac2d",
+        "signature": "745494f14a9e133beee622ca51cdc59c8896ff77c9f3cd017a4ce735b30dac2d"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/https.d.ts": {
+        "version": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6",
+        "signature": "dacbe08610729f6343ea9880ea8e737c6d7a6efa4a318d8f6acaf85db4aceed6"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/inspector.d.ts": {
+        "version": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c",
+        "signature": "4218ced3933a31eed1278d350dd63c5900df0f0904f57d61c054d7a4b83dbe4c"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/module.d.ts": {
+        "version": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66",
+        "signature": "03394bf8deb8781b490ae9266a843fbdf00647947d79e25fcbf1d89a9e9c8a66"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts": {
+        "version": "1224b49e2c8f3b4ed618969d2989412d1282536d2a6a31c30c84d5da01d8b8e4",
+        "signature": "1224b49e2c8f3b4ed618969d2989412d1282536d2a6a31c30c84d5da01d8b8e4"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/os.d.ts": {
+        "version": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486",
+        "signature": "1a6016bd905855b2b45881e9edbd7ab8c7175f8bcbb711ff06989c4bcdc75486"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/path.d.ts": {
+        "version": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36",
+        "signature": "5fb30076f0e0e5744db8993648bfb67aadd895f439edad5cce039127a87a8a36"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/perf_hooks.d.ts": {
+        "version": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f",
+        "signature": "27ef4001526ee9d8afa57687a60bb3b59c52b32d29db0a2260094ab64726164f"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/process.d.ts": {
+        "version": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389",
+        "signature": "3a8848a9c307429b861402cc69bc472ffe0c05b86474fc158723169161e16389"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/punycode.d.ts": {
+        "version": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1",
+        "signature": "30ec6f9c683b988c3cfaa0c4690692049c4e7ed7dc6f6e94f56194c06b86f5e1"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/querystring.d.ts": {
+        "version": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e",
+        "signature": "e0070c45bf15b872f58eee948f71ad6f4f424f36330b2477753fc1aed3ece36e"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/readline.d.ts": {
+        "version": "e1045d32a6a59dbcbe0ed2edddc6568221acc299ac68d92284153e7c00b39d51",
+        "signature": "e1045d32a6a59dbcbe0ed2edddc6568221acc299ac68d92284153e7c00b39d51"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/repl.d.ts": {
+        "version": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157",
+        "signature": "65dbe15ed8a8ed5d4707a63868178dc38111cfc06de28a2e50713ca017a9c157"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts": {
+        "version": "2350c09d0121a0b22c386a7bb8436d521b444c6b4b3e6ee37197d08a23f3b9dd",
+        "signature": "2350c09d0121a0b22c386a7bb8436d521b444c6b4b3e6ee37197d08a23f3b9dd"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/string_decoder.d.ts": {
+        "version": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432",
+        "signature": "7e62aac2cc9c0710d772047ad89e8d7117f52592c791eb995ce1f865fedab432"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/timers.d.ts": {
+        "version": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9",
+        "signature": "b40652bf8ce4a18133b31349086523b219724dca8df3448c1a0742528e7ad5b9"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts": {
+        "version": "af5f07deb33b2fb92ef67ea5ebb69670b81c74908b646e7cd4361a331d2a558a",
+        "signature": "af5f07deb33b2fb92ef67ea5ebb69670b81c74908b646e7cd4361a331d2a558a"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/trace_events.d.ts": {
+        "version": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662",
+        "signature": "978aecd2e6bc2ac094e9a35eda98ff8586713857b3655e7c98ca5ed8f7d50662"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/tty.d.ts": {
+        "version": "08261bfa763b8cd7fa74c06debf70ee22268c299a18e5dc7c48736bc352be007",
+        "signature": "08261bfa763b8cd7fa74c06debf70ee22268c299a18e5dc7c48736bc352be007"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts": {
+        "version": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7",
+        "signature": "1e3da92862604b1f7a32265169f9aa712c4567742d42597704e04ae3e07019e7"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts": {
+        "version": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12",
+        "signature": "0f6382d5032e45eec50b8f6c1e18c77544bc4db2ef8f854d196b254ec16add12"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/v8.d.ts": {
+        "version": "e98d697adf809fc14dc88ed4e00e4f0e0e381ca23d6d9320cf01af87e801f725",
+        "signature": "e98d697adf809fc14dc88ed4e00e4f0e0e381ca23d6d9320cf01af87e801f725"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts": {
+        "version": "ad20b1311e55187f8eeefdd282a02dbc70e5ac0cf8ab4cabae99c142b32cc562",
+        "signature": "ad20b1311e55187f8eeefdd282a02dbc70e5ac0cf8ab4cabae99c142b32cc562"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/worker_threads.d.ts": {
+        "version": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb",
+        "signature": "7780573ed8387aaadcc61d87f3d60d77dabf1e060da252dc72ab1d73401988bb"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/zlib.d.ts": {
+        "version": "2ffd50644d73fc1fa59c69d48859b6c843d3604609d7353725b6d2b001f05a2b",
+        "signature": "2ffd50644d73fc1fa59c69d48859b6c843d3604609d7353725b6d2b001f05a2b"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/base.d.ts": {
+        "version": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce",
+        "signature": "6622f76993bdfeaacb947ba7c4cf26f2e5c5194194d02d792c3cba4174cd8fce"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts": {
+        "version": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c",
+        "signature": "4f54f0a9dd3b644c99ec32b32f8804d5978bc854799b228ae9c467bf3c84c64c"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/globals.d.ts": {
+        "version": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1",
+        "signature": "4926e99d2ad39c0bbd36f2d37cc8f52756bc7a5661ad7b12815df871a4b07ba1"
+      },
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts": {
+        "version": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c",
+        "signature": "765fc34423b93c2ab763670d8d11d99e5f47387c13c161d6f1640dd6d91b7d1c"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/fs.d.ts": {
+        "version": "76685cb279ad5722d64619edc0fdb97369bf20cf5871a3804f2380985b41e296",
+        "signature": "76685cb279ad5722d64619edc0fdb97369bf20cf5871a3804f2380985b41e296"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copy.d.ts": {
+        "version": "ca5b866499ed56d22845478a6d9012984373a3d036fb3fc259447570b20b8c4a",
+        "signature": "ca5b866499ed56d22845478a6d9012984373a3d036fb3fc259447570b20b8c4a"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copyfileatomic.d.ts": {
+        "version": "caf708f619b628b70c716b382d8072131f503c6c0904522181a39f254c07280b",
+        "signature": "caf708f619b628b70c716b382d8072131f503c6c0904522181a39f254c07280b"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfile.d.ts": {
+        "version": "a66d039ac806ebccc25fe4fd33c5155d35f3c06573901e3137d52d1fcff221f6",
+        "signature": "a66d039ac806ebccc25fe4fd33c5155d35f3c06573901e3137d52d1fcff221f6"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfileatomic.d.ts": {
+        "version": "f5da96fc99bb43abd33729a119323bbc80460143ed56da2a314ef45c144da99b",
+        "signature": "f5da96fc99bb43abd33729a119323bbc80460143ed56da2a314ef45c144da99b"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopy.d.ts": {
+        "version": "0c6b0c3862316fd5aee6d669ebcf64465bb6af2906b0cac8eb49ec8dec55e6d2",
+        "signature": "0c6b0c3862316fd5aee6d669ebcf64465bb6af2906b0cac8eb49ec8dec55e6d2"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopyatomic.d.ts": {
+        "version": "0fbc915229dcd0ee37c3909f6e7b70f7da6c1f10ae744e2ede1dcd4d6180fa66",
+        "signature": "0fbc915229dcd0ee37c3909f6e7b70f7da6c1f10ae744e2ede1dcd4d6180fa66"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlink.d.ts": {
+        "version": "af601aa5462b437d00c5745fe71417c0c85b4991862e47ccf69664911fb951b2",
+        "signature": "af601aa5462b437d00c5745fe71417c0c85b4991862e47ccf69664911fb951b2"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlinkatomic.d.ts": {
+        "version": "d63347f83e3fb3772b03c0b19402ed0a3d1246ad9eeec09cf1ee4da16b525aa3",
+        "signature": "d63347f83e3fb3772b03c0b19402ed0a3d1246ad9eeec09cf1ee4da16b525aa3"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts": {
+        "version": "c591b41313d5d73ab085754cd33e17c1712fe14ae05a3a7b38425d4e29ee57c7",
+        "signature": "c591b41313d5d73ab085754cd33e17c1712fe14ae05a3a7b38425d4e29ee57c7"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlinkatomic.d.ts": {
+        "version": "6310fc05d5ec32660d5d76dd27b1b43197eb2901136c5e6ee410f85d83120c5e",
+        "signature": "6310fc05d5ec32660d5d76dd27b1b43197eb2901136c5e6ee410f85d83120c5e"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/emptydir.d.ts": {
+        "version": "bafa92e582fb57b4c8875decc6d127044db0741b7806d7fe909a87fdb166d6ca",
+        "signature": "bafa92e582fb57b4c8875decc6d127044db0741b7806d7fe909a87fdb166d6ca"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/mkdirs.d.ts": {
+        "version": "9756db54fbba802af2f9a6c534a8a4cb55da11e8681835dc79e4c7a1e285eac1",
+        "signature": "9756db54fbba802af2f9a6c534a8a4cb55da11e8681835dc79e4c7a1e285eac1"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzip.d.ts": {
+        "version": "b7b1f006f6cfdc4a7a253b4d238ae4943dd9f8f84b16c93a79a9868d370c250a",
+        "signature": "b7b1f006f6cfdc4a7a253b4d238ae4943dd9f8f84b16c93a79a9868d370c250a"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzipatomic.d.ts": {
+        "version": "f5ed524a56aa56d49cd4de33eb50e7aa745f351155b1a587858fb0cb831d6338",
+        "signature": "f5ed524a56aa56d49cd4de33eb50e7aa745f351155b1a587858fb0cb831d6338"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gzip.d.ts": {
+        "version": "c614bad90c37394e98da80bbe34db624719fc89b6704a6a6be996135d8ebc962",
+        "signature": "c614bad90c37394e98da80bbe34db624719fc89b6704a6a6be996135d8ebc962"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/linkatomic.d.ts": {
+        "version": "0c7c7f035a57915ab04f6b6e6af987dab41081818a94b2daf8007f13f76eb206",
+        "signature": "0c7c7f035a57915ab04f6b6e6af987dab41081818a94b2daf8007f13f76eb206"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/move.d.ts": {
+        "version": "ac9fe7aa6a476c07da360eefd1ffc6c7af04dabbce58e327ae450fbf9f883993",
+        "signature": "ac9fe7aa6a476c07da360eefd1ffc6c7af04dabbce58e327ae450fbf9f883993"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts": {
+        "version": "e59b52498b67def8ff51ba96124a29126c2900598c86b54e9280a1a9c8464880",
+        "signature": "e59b52498b67def8ff51ba96124a29126c2900598c86b54e9280a1a9c8464880"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfile.d.ts": {
+        "version": "415a77d31f6d8505e4ff81df7251ec360504c88f670651965d17b1377b63dc99",
+        "signature": "415a77d31f6d8505e4ff81df7251ec360504c88f670651965d17b1377b63dc99"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfileatomic.d.ts": {
+        "version": "e0edf77783e5f8707f92d1c0fa60e1efd5222e16f4888c10ab641e27068cda7e",
+        "signature": "e0edf77783e5f8707f92d1c0fa60e1efd5222e16f4888c10ab641e27068cda7e"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts": {
+        "version": "8a99656cc7e3ab122023ccd3f28212df64cbef6dc4ea1e1f89c56016e753d9f6",
+        "signature": "8a99656cc7e3ab122023ccd3f28212df64cbef6dc4ea1e1f89c56016e753d9f6"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjson.d.ts": {
+        "version": "9e4f4fa80232deafef8aaa29dd127dd03f49667195754f960bbe8721bc5b0675",
+        "signature": "9e4f4fa80232deafef8aaa29dd127dd03f49667195754f960bbe8721bc5b0675"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjsonatomic.d.ts": {
+        "version": "818e0a468d4c0895e5f3e6e4ea2e82ae044d1db7794f897433b4cc790cb643e0",
+        "signature": "818e0a468d4c0895e5f3e6e4ea2e82ae044d1db7794f897433b4cc790cb643e0"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/pathexists.d.ts": {
+        "version": "2b6d7e59ff5097ff6cd81a3f35ba3acd792a3f8f5cc0dbb3ff0c7a18aa18605c",
+        "signature": "2b6d7e59ff5097ff6cd81a3f35ba3acd792a3f8f5cc0dbb3ff0c7a18aa18605c"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/readjson.d.ts": {
+        "version": "0c23663b985ea292e8f52952bdff411edaeef9f947d94790c840eddd640c4a70",
+        "signature": "0c23663b985ea292e8f52952bdff411edaeef9f947d94790c840eddd640c4a70"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/remove.d.ts": {
+        "version": "faef77989ebe04b6a8c0e012bce0aa506463665bf744ec4796562e09bb8cda9f",
+        "signature": "faef77989ebe04b6a8c0e012bce0aa506463665bf744ec4796562e09bb8cda9f"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/scan.d.ts": {
+        "version": "7c004ec133c4e29b966f1669f8866998ed70d2bd0cb8e270fd5d2d0207275dc6",
+        "signature": "7c004ec133c4e29b966f1669f8866998ed70d2bd0cb8e270fd5d2d0207275dc6"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/symlinkatomic.d.ts": {
+        "version": "70eda7ede8230b41c9ef10259220bba17fe5eaef44d2a65b0fbf5bf070e32f43",
+        "signature": "70eda7ede8230b41c9ef10259220bba17fe5eaef44d2a65b0fbf5bf070e32f43"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targz.d.ts": {
+        "version": "232743b3ce1439303ef1210852dac5becfbc40eeacf9f698b7b884482683f4c5",
+        "signature": "232743b3ce1439303ef1210852dac5becfbc40eeacf9f698b7b884482683f4c5"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targzatomic.d.ts": {
+        "version": "5e8966d1d7129b1668cd1a3c72e86fb9175e423cd09a13e12c2ecc29f0b2aa5f",
+        "signature": "5e8966d1d7129b1668cd1a3c72e86fb9175e423cd09a13e12c2ecc29f0b2aa5f"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargz.d.ts": {
+        "version": "a2157460b148bb2d8d4d8878a4fb5cd421f5fa27ec19f29f55a1beb08fe2be75",
+        "signature": "a2157460b148bb2d8d4d8878a4fb5cd421f5fa27ec19f29f55a1beb08fe2be75"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargzatomic.d.ts": {
+        "version": "917a96c1904c6169c6deac886b001479cc5994c39740491f3ff5b5ea847f0259",
+        "signature": "917a96c1904c6169c6deac886b001479cc5994c39740491f3ff5b5ea847f0259"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejsonatomic.d.ts": {
+        "version": "0143d1ed8fda932c72ee0c995c9863badce6d8669d9055083ad716ae8fca04f9",
+        "signature": "0143d1ed8fda932c72ee0c995c9863badce6d8669d9055083ad716ae8fca04f9"
+      },
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/index.d.ts": {
+        "version": "0e5ca46131396be64b6560619d9af296860425aea822d068f88b9c6cbe555231",
+        "signature": "0e5ca46131396be64b6560619d9af296860425aea822d068f88b9c6cbe555231"
+      },
+      "d:/development/school/typetoseesharp/src/lib/generateschema.ts": {
+        "version": "23ea8cdd5906288e3aa27822a5b780dca3be12cf5cd44b04e2fda1212165c465",
+        "signature": "b9b9737dea55819938cbaaf70b41434396dbbd1f25e7f17afbb193dd5df01c7e"
+      },
+      "d:/development/school/typetoseesharp/src/index.ts": {
+        "version": "5399c1e57d1211533a8032014b7942f15c8725c30a4c4fd127e9e3cdf77a156d",
+        "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
+      },
+      "d:/development/school/typetoseesharp/src/lib/types/numbers.d.ts": {
+        "version": "5e1f016010d7fc2e9aa9b04b14adbe9d608f7e289ac5c6cc0b690b9194e89693",
+        "signature": "5e1f016010d7fc2e9aa9b04b14adbe9d608f7e289ac5c6cc0b690b9194e89693"
+      }
+    },
+    "options": {
+      "allowSyntheticDefaultImports": true,
+      "alwaysStrict": true,
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "incremental": true,
+      "lib": [
+        "lib.esnext.d.ts",
+        "lib.es2019.array.d.ts",
+        "lib.es2018.asynciterable.d.ts",
+        "lib.esnext.intl.d.ts",
+        "lib.es2019.symbol.d.ts"
+      ],
+      "module": 1,
+      "moduleResolution": 2,
+      "noUnusedLocals": true,
+      "pretty": true,
+      "resolveJsonModule": true,
+      "sourceMap": true,
+      "strict": true,
+      "strictBindCallApply": true,
+      "strictFunctionTypes": true,
+      "target": 8,
+      "declaration": true,
+      "outDir": "D:/Development/SCHOOL/TypeToSeeSharp/dist",
+      "declarationDir": "D:/Development/SCHOOL/TypeToSeeSharp/dist",
+      "types": [
+        "node"
+      ],
+      "configFilePath": "D:/Development/SCHOOL/TypeToSeeSharp/tsconfig.json"
+    },
+    "referencedMap": {
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es5.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.array.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.object.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.string.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/typescript/lib/typescript.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/globals.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/assert.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/async_hooks.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/buffer.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/child_process.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/cluster.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/child_process.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/console.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/constants.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/crypto.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/dgram.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/domain.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/http2.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/https.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/inspector.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/module.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/os.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/path.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/perf_hooks.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/async_hooks.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/process.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/punycode.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/querystring.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/readline.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/repl.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/readline.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/string_decoder.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/timers.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/crypto.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/trace_events.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/tty.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/querystring.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/v8.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/worker_threads.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/zlib.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/base.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/globals.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/assert.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/async_hooks.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/buffer.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/child_process.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/cluster.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/console.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/constants.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/crypto.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dgram.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/domain.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/http2.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/https.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/inspector.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/module.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/os.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/path.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/perf_hooks.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/process.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/punycode.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/querystring.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/readline.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/repl.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/string_decoder.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/timers.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/trace_events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/tty.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/v8.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/worker_threads.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/zlib.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/globals.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/base.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/globals.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/fs.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copy.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copyfileatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfile.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfileatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopy.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopyatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlink.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlinkatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlinkatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/emptydir.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/mkdirs.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzip.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzipatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gzip.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/linkatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/move.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfile.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfileatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjson.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjsonatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/pathexists.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/readjson.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/remove.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/scan.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/symlinkatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targz.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targzatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargz.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargzatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejsonatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/index.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copy.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copyfileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfile.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopy.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopyatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlink.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlinkatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlinkatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/emptydir.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/mkdirs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzip.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzipatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gzip.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/linkatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/move.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfile.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjsonatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/pathexists.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/readjson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/remove.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/scan.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/symlinkatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targz.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targzatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargz.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargzatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejsonatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/src/lib/generateschema.ts": [
+        "d:/development/school/typetoseesharp/node_modules/typescript/lib/typescript.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/src/index.ts": [
+        "d:/development/school/typetoseesharp/node_modules/typescript/lib/typescript.d.ts",
+        "d:/development/school/typetoseesharp/src/lib/generateschema.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/src/lib/types/numbers.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es5.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2016.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.core.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.collection.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.generator.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.promise.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.object.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.string.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.intl.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.intl.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.promise.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.array.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.object.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.string.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.intl.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/typescript/lib/typescript.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/globals.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/assert.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/async_hooks.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/buffer.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/child_process.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/cluster.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/child_process.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/console.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/constants.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/crypto.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/dgram.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/domain.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/http2.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/https.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/inspector.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/module.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/os.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/path.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/perf_hooks.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/async_hooks.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/process.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/punycode.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/querystring.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/readline.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/repl.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/readline.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/string_decoder.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/timers.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/crypto.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/trace_events.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/tty.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/querystring.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/v8.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/worker_threads.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/zlib.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/base.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/globals.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/assert.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/async_hooks.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/buffer.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/child_process.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/cluster.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/console.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/constants.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/crypto.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dgram.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/domain.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/http2.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/https.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/inspector.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/module.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/os.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/path.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/perf_hooks.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/process.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/punycode.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/querystring.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/readline.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/repl.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/string_decoder.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/timers.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/trace_events.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/tty.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/v8.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/worker_threads.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/zlib.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/globals.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/globals.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/base.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/globals.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/fs.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copy.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copyfileatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfile.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfileatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopy.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopyatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlink.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlinkatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlinkatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/emptydir.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/mkdirs.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzip.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzipatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gzip.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/linkatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/move.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfile.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfileatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjson.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjsonatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/pathexists.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/readjson.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/remove.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/scan.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/symlinkatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targz.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targzatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargz.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargzatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejsonatomic.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/index.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/fs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copy.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copyfileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfile.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopy.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopyatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlink.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlinkatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlinkatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/emptydir.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/mkdirs.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzip.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzipatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gzip.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/linkatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/move.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfile.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjsonatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/pathexists.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/readjson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/remove.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/scan.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/symlinkatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targz.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targzatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargz.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargzatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejsonatomic.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/src/lib/generateschema.ts": [
+        "d:/development/school/typetoseesharp/node_modules/typescript/lib/typescript.d.ts"
+      ],
+      "d:/development/school/typetoseesharp/src/lib/types/numbers.d.ts": [
+        "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+        "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es5.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2016.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.array.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.object.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.string.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.es2019.symbol.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.intl.d.ts",
+      "c:/users/ethoa/appdata/roaming/nvm/v11.15.0/node_modules/typescript/lib/lib.esnext.bigint.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/typescript/lib/typescript.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/globals.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/assert.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/async_hooks.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/buffer.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/child_process.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/cluster.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/console.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/constants.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/crypto.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/dgram.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/dns.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/domain.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/events.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/fs.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/http.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/http2.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/https.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/inspector.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/module.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/net.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/os.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/path.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/perf_hooks.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/process.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/punycode.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/querystring.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/readline.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/repl.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/stream.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/string_decoder.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/timers.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/tls.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/trace_events.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/tty.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/url.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/util.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/v8.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/vm.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/worker_threads.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/zlib.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/base.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/util.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/globals.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/@types/node/ts3.2/index.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/fs.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copy.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/copyfileatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfile.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfileatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopy.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createfilecopyatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlink.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createlinkatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlink.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/createsymlinkatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/emptydir.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/mkdirs.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzip.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gunzipatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/gzip.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/linkatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/move.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writefileatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfile.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputfileatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejson.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjson.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/outputjsonatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/pathexists.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/readjson.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/remove.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/scan.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/symlinkatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targz.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/targzatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargz.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/untargzatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/nextra/writejsonatomic.d.ts",
+      "d:/development/school/typetoseesharp/node_modules/fs-nextra/dist/index.d.ts",
+      "d:/development/school/typetoseesharp/src/lib/generateschema.ts",
+      "d:/development/school/typetoseesharp/src/index.ts",
+      "d:/development/school/typetoseesharp/src/lib/types/numbers.d.ts"
+    ]
+  },
+  "version": "3.5.2"
+}
